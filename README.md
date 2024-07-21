@@ -29,6 +29,7 @@ Overall Accuracy: 72% F-1 Score
 The F1-score is a harmonic mean of precision and recall, providing a balanced measure of the model's performance. 
 FitTrack's machine learning model achieves consistent and reliable performance across various activity categories, contributing to an enhanced user experience and accurate activity tracking within the app!
 
-
+### Documentation 
+[Doc]("https://drive.google.com/file/d/1B8RtluTDrZkugkKNyYwQ_a0LCHt_GyId/view?usp=sharing")
 
 
